@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppFilmes</string>
+    <string-array name="genero">
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Suspense</item>
+    </string-array>
+</resources>
